@@ -1,6 +1,6 @@
 [package]
 name = "nasabg"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Korvin Szanto <me@kor.vin>"]
 edition = "2018"
 
